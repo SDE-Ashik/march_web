@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ms+Madi&family=Square+Peg&family=Water+Brush&display=swap');
+div{
+    background-color: black;
+    width: 50%;
+    height: 300px;
+    color: aliceblue;
+    border: red 2px solid;
+    /* padding-left: 50px;
+    padding-top: 30px;
+    padding-right: 20px; */
+    padding: 50px;
+font-size:x-large;
+border-radius: 120px;
+
+}
+h1{
+    color: rgb(193, 20, 220);
+    font-family: 'Ms Madi', cursive;
+}
+p{
+    color: rgb(160, 13, 13);
+    font-family: 'Square Peg', cursive;
+}

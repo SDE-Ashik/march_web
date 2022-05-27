@@ -1,0 +1,15 @@
+#a2{
+width: 100px;
+height: 100px;
+background-color: chartreuse;
+position: fixed;
+left: 300px;
+top: 30px;
+}
+#a1{
+    width: 100px;
+    height: 100px;
+    background-color:dodgerblue ;
+    position: sticky;
+    top: 0px;
+}

@@ -1,0 +1,20 @@
+div{
+    height: 50%;
+    width: 500px;
+    border: 4px black double;
+    overflow: scroll;
+}
+h1{
+    color: green;
+    background-color: beige;
+    text-align: center;
+}
+p{
+    text-indent: 4px;
+    text-transform: capitalize;
+    text-decoration: underline blue 5px;
+    padding: 10px;
+    text-shadow: 2px 15px 50px rgb(179, 210, 101);
+    color: rgb(14, 14, 8) ;
+    text-decoration: dotted rgb(186, 19, 19) 4px;
+}

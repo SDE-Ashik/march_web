@@ -1,0 +1,24 @@
+.parent{
+  width:50%;
+  height: 500px;
+  background-color: black;
+  position: relative;
+  left: 200px;
+}
+.col{
+  width: 100px;
+  height: 400px;
+  position: absolute;
+}
+.col-1{
+  background-color: blue;
+}
+.col-2{
+  background-color: blueviolet;
+  
+  left: 105px;
+}
+.col-3{
+  background-color: brown;
+  left: 210px;
+}

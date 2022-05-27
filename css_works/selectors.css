@@ -1,0 +1,28 @@
+h1{
+    color: darkturquoise;
+}
+#a1{
+    color: fuchsia;
+}
+.ab{
+    color: greenyellow;
+}
+body{
+    background-color: #269c24;
+}
+#s2{
+    background-color: black;
+}
+#s1{
+    background-color: #ae34eb;
+}
+p{
+    font-size: xx-large;
+}
+#ty{
+    align-items: center;
+}
+/* selectors */
+/* 1. id selector # using */
+/* 3. class selectors . using */
+

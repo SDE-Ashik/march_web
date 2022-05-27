@@ -1,0 +1,131 @@
+
+div{
+    width: 100px;
+    height: 200px;
+    border: solid 2px black;
+  
+}
+#main{
+    background-color: black;
+    width: 2000px;
+    height: 1000px;
+    padding-top: 90px;
+}
+
+#s1{
+  background-color: aqua;
+ margin-left: 639px;
+}
+#s2{
+    background-color:blue;
+   margin-left: 531px;
+    margin-top: -205px;
+
+}
+#s3{
+    background-color: brown;
+    margin-left: 423px;
+   margin-top: -205px;
+
+}
+#s4{
+    background-color: blueviolet;
+    margin-left: 315px;
+   margin-top: -205px;
+}
+
+#s5{
+    background-color: gold;
+    margin-left: 748px;
+    margin-top: -201px;
+}
+#s6{
+    background-color: hotpink;
+    margin-left: 858px;
+    margin-top: 16px;
+   
+}
+#s7{
+    background-color: snow;
+   margin-left: 748px;
+   margin-top: -204px;
+}
+#s8{
+    background-color: rgb(23, 231, 116);
+    margin-left: 639px;
+    margin-top: -204px;
+}
+#s9{
+    background-color: rgb(31, 236, 55);
+    margin-left: 531px;
+    margin-top: -204px;
+}
+#s10{
+    background-color: rgb(157, 223, 80);
+    margin-left: 423px;
+    margin-top: -204px;
+}
+#s11{
+    background-color: rgb(128, 13, 132);
+    margin-left: 315px;
+    margin-top: -204px;
+}
+#s12{
+    background-color: rgb(43, 25, 144);
+    margin-left: 204px;
+    margin-top: -204px;
+}
+#s13{
+    background-color: chocolate;
+    margin-left:204px ;
+    margin-top: 12px;
+
+}
+#s14{
+    background-color: rgb(108, 80, 169);
+    margin-left:315px ;
+    margin-top: -203px;
+
+}
+#s15{
+    background-color: rgb(130, 81, 149);
+    margin-left:95px ;
+    margin-top: -206px;
+
+}
+#s16{
+    background-color: rgb(152, 173, 32);
+    margin-left:423px ;
+    margin-top: -203px;
+
+}
+#s17{
+    background-color: rgb(52, 178, 165);
+    margin-left:531px ;
+    margin-top: -203px;
+
+}
+#s18{
+    background-color: rgb(239, 11, 11);
+    margin-left:639px ;
+    margin-top: -203px;
+
+}
+#s19{
+    background-color: rgb(66, 16, 30);
+    margin-left:748px ;
+    margin-top: -203px;
+
+}
+#s20{
+    background-color: rgb(76, 119, 125);
+    margin-left:858px ;
+    margin-top: -203px;
+
+}
+#s21{
+    background-color: rgb(5, 145, 22);
+    margin-left:968px ;
+    margin-top: -203px;
+
+}

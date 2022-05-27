@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/2029165.jpg");
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+a{
+    color: black;
+    background-color: aqua;
+    cursor: pointer;
+    font-size: 25px;
+    text-decoration: none;
+    padding: 34px 34px;
+}
+a:hover{
+    color: aqua;
+    background-color: bisque;
+    n
+}
