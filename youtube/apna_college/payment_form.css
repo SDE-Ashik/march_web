@@ -1,7 +1,52 @@
-.d1{ border: 2px grey double;
+*{
+    box-sizing: border-box;
+
+}
+.d1{
+
+     border: 2px grey double;
+     background-color: antiquewhite;
+     padding: 5px 20px 15px 20px;
+     border-radius: 4px;
   
 }
 
 .hi{
-    align-items: center;
+    text-align: center;
+    
 }
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 15px 30px;
+    font-size: 17px;
+    padding: 8px;
+}
+input[type="text"],
+input[type="email"],
+input[type="radio"],
+input[type="number"],
+input[type="password"],
+input[type="date"],
+select
+textarea{
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+fieldset{
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+input[type="submit"]{
+    background-color: rgb(128, 246, 10);
+ color: aliceblue;   
+ padding: 12px 20px;
+ border: none;
+ border-radius: 40px;
+ cursor: pointer;
+ width: 100%;
+}
+ input[type="submit"]:hover{
+
+ }
