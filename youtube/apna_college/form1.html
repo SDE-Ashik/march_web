@@ -5,11 +5,24 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="form1.css">
 </head>
 <body>
-    <div>
+    <div class="div1">
         <h1>CONTACT FORM</h1>
-        <P>Please fill all texts in the fields. </P>
+        <P> * Please fill all texts in the fields. </P>
+        <label for="name"> your Name: * <br>
+            <input type="text" id="name" placeholder=" Your Full Name" required>
+        </label> <hr>
+        <label for="">Your Email:  <br><input type="email" placeholder="Valid Email Address" required> 
+        </label> <hr>
+        <label for=""> Message: <br>
+            <textarea name="" id="" placeholder="Your Message to Us" > </textarea><br>
+        </label>
+        <label for="">Subject:
+            <input type="text" required>
+        </label> <br>
+        <input type="submit" >
     </div>
 </body>
 </html>
