@@ -9,8 +9,10 @@
 </head>
 <body>
     <div class="div1">
+        <div class="div-inside" >
         <h1>CONTACT FORM</h1>
         <P> * Please fill all texts in the fields. </P>
+    </div>
         <label for="name"> your Name: * <br>
             <input type="text" id="name" placeholder=" Your Full Name" required>
         </label> <hr>
@@ -20,7 +22,11 @@
             <textarea name="" id="" placeholder="Your Message to Us" > </textarea><br>
         </label>
         <label for="">Subject:
-            <input type="text" required>
+            <select name="subject" id="subject" required>
+                <option value="">Job enquiry</option>
+            <option value="">general questions</option>
+            <option value=""> more about us</option>
+        </select>
         </label> <br>
         <input type="submit" >
     </div>
