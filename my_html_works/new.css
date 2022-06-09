@@ -1,0 +1,28 @@
+h1{
+    font-size:1em large;
+    text-transform: uppercase;
+    /* background: linear-gradient(180deg,rgb(233,65,87),rgb(24,243,98)); */
+    text-align: center;
+    text-decoration: none;
+margin-top: -10px;
+}
+body{
+    width: max-content;
+    background: linear-gradient(90deg,yellow,purple,pink);
+    color: white;
+}
+.head{
+    background-color: gold;
+    color: red;
+    margin-top: -10px;
+    
+}
+a:hover{
+
+}
+.main{
+    margin-left: 5px;
+    margin-right: 5px;
+    color: black;
+    font-size:1em;
+}
