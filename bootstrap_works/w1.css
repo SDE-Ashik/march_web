@@ -1,0 +1,23 @@
+.h_colour,.colour, l_color{
+    background-color: black;
+}
+colour{
+    color: rgb(255, 255, 255);
+}
+body{
+    background-color: black;
+}
+.grey{
+    background-color: grey;
+}
+.foot{
+    height: 40px;
+}
+.f_color{
+    background-color: grey;
+    color: white;
+}
+l_color{
+    background-color: grey;
+    color: white;
+}
