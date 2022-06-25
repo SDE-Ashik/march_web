@@ -1,4 +1,4 @@
-.h_colour,.colour, l_color{
+.h_colour,.colour, {
     background-color: black;
 }
 colour{
@@ -8,16 +8,16 @@ body{
     background-color: black;
 }
 .grey{
-    background-color: grey;
+    background-color: rgb(33, 4, 4);
 }
 .foot{
     height: 40px;
 }
 .f_color{
-    background-color: grey;
+    background-color: rgb(44, 38, 38);
     color: white;
 }
 l_color{
-    background-color: grey;
+    background-color: rgb(48, 39, 39);
     color: white;
 }
